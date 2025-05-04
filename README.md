@@ -46,7 +46,8 @@ Blender, Unity.
 
 Url de descarga:
 
-https://github.com/sondow77/Laberinto-Accesible/tree/master/releases
+[https://github.com/sondow77/Laberinto-Accesible/tree/master/releases
+](https://github.com/nicolobos77/Laberinto-Accesible/releases/tag/1.0)
 
 Video:
 
